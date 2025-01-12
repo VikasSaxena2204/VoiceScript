@@ -100,6 +100,11 @@ Follow these steps to set up the project locally:
 
 4. Ensure your microphone is enabled and grant necessary permissions for browser access.
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page Screenshot]()
+
 ## Future Improvements
 - **Multi-Language Support:** Add the ability to     switch between languages in real-time during transcription.
 - **Text Formatting Options:** Provide options to adjust text formatting, such as font size and style.
