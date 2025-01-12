@@ -106,7 +106,7 @@ Follow these steps to set up the project locally:
 ![Login Page Screenshot](https://github.com/VikasSaxena2204/VoiceScript/blob/main/VoiceScript.png)
 
 ## Future Improvements
-- **Multi-Language Support:** Add the ability to     switch between languages in real-time during transcription.
+- **Multi-Language Support:** Add the ability to switch between languages in real-time during transcription.
 - **Text Formatting Options:** Provide options to adjust text formatting, such as font size and style.
 - **Accuracy Enhancement:** Implement better noise reduction for clearer speech recognition.
 - **Voice Feedback:** Add auditory cues to indicate when the speech recognition starts and stops.
