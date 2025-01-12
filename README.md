@@ -103,7 +103,7 @@ Follow these steps to set up the project locally:
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page Screenshot]()
+![Login Page Screenshot](https://github.com/VikasSaxena2204/VoiceScript/blob/main/VoiceScript.png)
 
 ## Future Improvements
 - **Multi-Language Support:** Add the ability to     switch between languages in real-time during transcription.
