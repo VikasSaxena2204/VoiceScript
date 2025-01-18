@@ -2,7 +2,7 @@
 - **Code By: Vikas Saxena**
 ## A Web-Based Speech-to-Text Converter
 
-VoiceScript is an easy-to-use, web-based Speech-to-Text converter that allows users to speak into their device's microphone and have their speech transcribed into text in real-time. The application features an intuitive interface with options like language selection, speech conversion, and actions to copy, download, and clear the transcribed text. The project is built using HTML, CSS, and JavaScript, utilizing the Web Speech API for speech recognition.
+VoiceScript is an easy-to-use, web-based Speech-to-Text converter that allows users to speak into their device's microphone and have their speech transcribed into text in real time. The application features an intuitive interface with options like language selection, speech conversion, and actions to copy, download, and clear the transcribed text. The project is built using HTML, CSS, and JavaScript, utilizing the Web Speech API for speech recognition.
 
 ---
 
