@@ -98,7 +98,7 @@ Follow these steps to set up the project locally:
 
 3. Open the index.html file in your preferred web browser.
 
-4. Ensure your microphone is enabled and grant necessary permissions for browser access.
+4. Ensure your microphone is enabled and grant necessary permissions for browser access for output.
 
 ## 📸 Screenshots
 
